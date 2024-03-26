@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=900&size=55&duration=5045&pause=1000&color=00F789&vCenter=true&random=false&width=435&lines=Hi%2C+i'm+Pablo" alt="Typing SVG" /></a>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=900&size=55&duration=5045&pause=1000&color=00F789&vCenter=true&repeat=false&random=false&width=435&lines=Hi%2C++i'm+Pablo" alt="Typing SVG" /></a>
 <h3 align="center">Developer based in Sao Paulo,Brazil </h3>
 
 
