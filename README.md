@@ -1,12 +1,9 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">Pablo</a></h1>
-<h3 align="center">Software developer from Argentina based in Sao Paulo </h3>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=900&size=55&duration=5045&pause=1000&color=00F789&vCenter=true&random=false&width=435&lines=Hi%2C+i'm+Pablo" alt="Typing SVG" /></a>
+<h3 align="center">Developer based in Sao Paulo,Brazil </h3>
 
 
 <br>
 
-<a href="#" target="_blank" align="center">
-  <img align="right" style="margin-top: 20px;" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
 
 <ul>
     <li>🧑‍🎓 I am currently pursuing a degree in software engineering.</li>
@@ -17,7 +14,7 @@
 </ul>
 
 <h3 align="center"> 
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F789&random=false&width=435&lines=Connect+with+me+%F0%9F%A4%9D+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=40&duration=5045&pause=1000&color=00F789&vCenter=true&repeat=false&random=false&width=435&lines=connect+with+me" alt="Typing SVG" /></a>
 </h3>
 
 <p align="center">
