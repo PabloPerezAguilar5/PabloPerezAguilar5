@@ -20,6 +20,7 @@
 <p align="center">
     <div align="center" class="icons-social" style="margin-left: 10px;">
         <img width="100" height="100" src="https://img.icons8.com/clouds/100/python.png" alt="python"/>
+        <img width="96" height="96" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo"/>
         <img width="100" height="100" src="https://img.icons8.com/clouds/100/data-configuration.png" alt="data-configuration"/>
         <img width="100" height="100" src="https://img.icons8.com/plasticine/100/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
         <img width="100" height="100" src="https://img.icons8.com/plasticine/100/html-5.png" alt="html-5"/>
