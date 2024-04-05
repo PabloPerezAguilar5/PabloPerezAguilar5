@@ -27,7 +27,6 @@
         <img width="100" height="100" src="https://img.icons8.com/ios-filled/100/000000/git.png" alt="git"/>
         <img width="100" height="100" src="https://img.icons8.com/plasticine/100/bootstrap.png" alt="bootstrap"/>
         <img width="96" height="96" src="https://img.icons8.com/nolan/96/console.png" alt="console"/>
-        <img width="100" height="100" src="https://img.icons8.com/bubbles/100/mac-logo.png" alt="mac-logo"/>
     </div>
 </p>
 
