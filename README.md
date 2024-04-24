@@ -16,8 +16,8 @@
     <li>🧑‍🎓 I am currently pursuing a degree in software engineering.</li>
     <li>👍 I am available to work.</li>
     <li>🤝 I’m available for freelancing.</li>
-    <li>👾 I’m currently learning AI & Java.</li>
-    <li>🖥 I’m currently working on Bots and Machine Learning.</li>
+    <li>👾 I’m currently working with React Native.</li>
+    
 </ul>
 
 <br>
