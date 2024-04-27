@@ -11,13 +11,12 @@
 
 <br>
 
-<ul align="center">
-    <li>🧑‍🎓 I am currently pursuing a degree in software engineering.</li>
-    <li>👍 I am available to work.</li>
-    <li>🤝 I’m available for freelancing.</li>
-    <li>👾 I’m currently working with React Native.</li>
-    <li>👨‍💻 I’m currently learning Kotlin.</li>
-</ul>
+<p align="center">🧑‍🎓 I am currently pursuing a degree in software engineering.</p>
+<p align="center">👍 I am available to work.</p>
+<p align="center">🤝 I’m available for freelancing.</p>
+<p align="center">👾 I’m currently working with React Native.</p>
+<p align="center">👨‍💻 I’m currently learning Kotlin.</p>
+
 
 <br>
 
