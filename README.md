@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>"Pablo's Portfolio"</title>
 </head>
 <body>
 
@@ -17,7 +16,7 @@
     <li>👍 I am available to work.</li>
     <li>🤝 I’m available for freelancing.</li>
     <li>👾 I’m currently working with React Native.</li>
-    
+    <li>👨‍💻 I’m currently learning Kotlin.</li>
 </ul>
 
 <br>
@@ -26,35 +25,46 @@
 
 <p align="center">
     <div align="center" class="icons-social">
-        <img width="100" height="100" src="https://img.icons8.com/clouds/100/python.png" alt="python"/>
-        <img width="96" height="96" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="django"/>
-        <img width="100" height="100" src="https://img.icons8.com/clouds/100/data-configuration.png" alt="data-configuration"/>
-        <img width="100" height="100" src="https://img.icons8.com/plasticine/100/visual-studio-code-2019.png" alt="visual-studio-code"/>
-        <img width="100" height="100" src="https://img.icons8.com/plasticine/100/html-5.png" alt="html-5"/>
-        <img width="100" height="100" src="https://img.icons8.com/ios-filled/100/000000/git.png" alt="git"/>
-        <img width="100" height="100" src="https://img.icons8.com/plasticine/100/bootstrap.png" alt="bootstrap"/>
-        <img width="96" height="96" src="https://img.icons8.com/nolan/96/console.png" alt="console"/>
+        <img width="100" height="100" src="https://img.icons8.com/nolan/100/1A6DFF/C822FF/python.png" alt="python"/>
+        <img width="100" height="100" src="https://img.icons8.com/nolan/100/1A6DFF/C822FF/django.png" alt="django"/>
+        <img width="100" height="100" src="https://img.icons8.com/nolan/100/1A6DFF/C822FF/data-configuration.png" alt="data-configuration"/>
+        <img width="100" height="100" src="https://img.icons8.com/nolan/100/1A6DFF/C822FF/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+        <img width="100" height="100" src="https://img.icons8.com/nolan/100/1A6DFF/C822FF/html-5.png" alt="html-5"/>
+        <img width="100" height="100" src="https://img.icons8.com/nolan/100/git.png" alt="git"/>
+        <img width="100" height="100" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/chatbot.png" alt="chatbot"/>
+        <img width="100" height="100" src="https://img.icons8.com/nolan/96/console.png" alt="console"/>
     </div>
 </p>
 
 <br>
 
-<h3 align="center">Connect with me:</h3>
+
+
+
+<div align="center">
+    <h3>
+        <a href="https://git.io/typing-svg" target="_blank">
+            <img src="https://readme-typing-svg.demolab.com?font=Roboto-Mono&pause=1000&color=22C0F7&center=true&vCenter=true&random=false&width=435&lines=Connect+with+me" alt="Typing SVG"/>
+        </a>
+    </h3>
+</div>
 
 <p align="center">
     <div align="center" class="icons-social">
         <a href="https://www.linkedin.com/in/pablomperezaguilar/" target="_blank">
-            <img width="100" height="100" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin"/>
+            <img width="100" height="100" src="https://img.icons8.com/pulsar-gradient/100/linkedin.png" alt="linkedin"/>
         </a>
         <a href="https://github.com/PabloPerezAguilar5" target="_blank">
-            <img width="100" height="100" src="https://img.icons8.com/bubbles/100/github.png" alt="github"/>
+            <img width="100" height="100" src="https://img.icons8.com/pulsar-gradient/100/github.png" alt="github"/>
         </a>
         <a href="mailto:pabloperezaguilaro@gmail.com" target="_blank">
-            <img width="100" height="100" src="https://img.icons8.com/bubbles/100/gmail-new.png" alt="gmail"/>
+            <img width="100" height="100" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/gmail.png" alt="gmail"/>
         </a>
     </div>
 </p>
 
+
 </body>
 </html>
+
 
