@@ -53,7 +53,7 @@
         <a href="https://www.linkedin.com/in/pablomperezaguilar/" target="_blank">
             <img width="100" height="100" src="https://img.icons8.com/pulsar-gradient/100/linkedin.png" alt="linkedin"/>
         </a>
-        <a href="https://github.com/PabloPerezAguilar5" target="_blank">
+        <a href="https://github.com/PabloPerezAguilar5?tab=repositories" target="_blank">
             <img width="100" height="100" src="https://img.icons8.com/pulsar-gradient/100/github.png" alt="github"/>
         </a>
         <a href="mailto:pabloperezaguilaro@gmail.com" target="_blank">
