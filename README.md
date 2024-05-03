@@ -14,7 +14,7 @@
 <p align="center">🧑‍🎓 I am currently pursuing a degree in software engineering.</p>
 <p align="center">👍 I am available to work.</p>
 <p align="center">🤝 I’m available for freelancing.</p>
-<p align="center">👨‍💻 I’m currently working & learning Java.</p>
+<p align="center">👨‍💻 I’m currently learning Java.</p>
 
 
 <br>
