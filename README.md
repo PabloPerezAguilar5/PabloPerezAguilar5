@@ -32,7 +32,7 @@
         <img width="100" height="100" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/chatbot.png" alt="chatbot"/>
         <img width="100" height="100" src="https://img.icons8.com/nolan/96/console.png" alt="console"/>
         
-    </div>
+    
 </p>
 
 <br>
