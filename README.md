@@ -11,10 +11,10 @@
 
 <br>
 
-<p align="center">🧑‍🎓 I am currently pursuing a degree in software engineering.</p>
-<p align="center">👍 I am available to work.</p>
+<p align="center">🧑‍🎓 Studying a degree in software engineering.</p>
+<p align="center">👍 I'm available to work.</p>
 <p align="center">🤝 I’m available for freelancing.</p>
-<p align="center">👨‍💻 I’m currently learning Java.</p>
+<p align="center">👨‍💻 Currently learning Java.</p>
 
 
 <br>
@@ -31,6 +31,7 @@
         <img width="100" height="100" src="https://img.icons8.com/nolan/100/git.png" alt="git"/>
         <img width="100" height="100" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/chatbot.png" alt="chatbot"/>
         <img width="100" height="100" src="https://img.icons8.com/nolan/96/console.png" alt="console"/>
+        
     </div>
 </p>
 
