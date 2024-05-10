@@ -3,8 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
 </head>
 <body>
+<i class="devicon-djangorest-plain-wordmark"></i>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Pablo</h1>
 <h3 align="center">Developer based in Sao Paulo, Brazil</h3>
@@ -14,23 +17,29 @@
 <p align="center">🧑‍🎓 Studying a degree in software engineering.</p>
 <p align="center">👍 I'm available to work.</p>
 <p align="center">🤝 I’m available for freelancing.</p>
-<p align="center">👨‍💻 Currently learning Java.</p>
+<p align="center">🧑‍💻 Currently learning Java.</p>
 
 
 <br>
 
 <h3 align="center">Tools I have experience with:</h3>
 
-<p align="center">
-    <div align="center" class="icons-social">
-        <img width="100" height="100" src="https://img.icons8.com/nolan/100/1A6DFF/C822FF/python.png" alt="python"/>
-        <img width="100" height="100" src="https://img.icons8.com/nolan/100/1A6DFF/C822FF/django.png" alt="django"/>
-        <img width="100" height="100" src="https://img.icons8.com/nolan/100/1A6DFF/C822FF/data-configuration.png" alt="data-configuration"/>
-        <img width="100" height="100" src="https://img.icons8.com/nolan/100/1A6DFF/C822FF/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-        <img width="100" height="100" src="https://img.icons8.com/nolan/100/1A6DFF/C822FF/html-5.png" alt="html-5"/>
-        <img width="100" height="100" src="https://img.icons8.com/nolan/100/git.png" alt="git"/>
-        <img width="100" height="100" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/chatbot.png" alt="chatbot"/>
-        <img width="100" height="100" src="https://img.icons8.com/nolan/96/console.png" alt="console"/>
+<div style="display: inline_block"><br>
+      
+<img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoSize=auto&labelColor=white&color=yellow" width="140" alt="Static Badge">
+<img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=green&logoSize=auto&labelColor=white" width="135" alt="Django Badge">
+<img src="https://img.shields.io/badge/java-%23a6000b?style=for-the-badge&logo=coffeescript&logoColor=%23a6000b&logoSize=auto&labelColor=white" width="120" alt="Java Badge">
+<img src="https://img.shields.io/badge/spring%20boot-green?style=for-the-badge&logo=springboot&logoColor=%2303a110&logoSize=auto&labelColor=white" width="185" alt="Spring Boot Badge">
+<img src="https://img.shields.io/badge/sql-%23ff9e03?style=for-the-badge&logo=mysql&logoColor=%230f82f5&logoSize=auto&labelColor=white" width="110" alt="SQL Badge">
+<img src="https://img.shields.io/badge/html5-%23a60707?style=for-the-badge&logo=html5&logoColor=%23750202&logoSize=auto&labelColor=white" width="120" alt="HTML5 Badge">
+<img src="https://img.shields.io/badge/css3-%23175ee3?style=for-the-badge&logo=css3&logoColor=%23175ee3&logoSize=auto&labelColor=white" width="110" alt="CSS3 Badge">
+<img src="https://img.shields.io/badge/docker-%23014670?style=for-the-badge&logo=docker&logoColor=black&logoSize=auto&labelColor=white" width="150" alt="Docker Badge">
+<img src="https://img.shields.io/badge/react--white?style=for-the-badge&logo=react&logoColor=blue&logoSize=auto&labelColor=white" width="130" alt="React Badge">
+<img src="https://img.shields.io/badge/vite--white?style=for-the-badge&logo=vite&logoColor=violet&logoSize=auto&labelColor=white" width="115" alt="Vite Badge">
+<img src="https://img.shields.io/badge/postman-%23ff5e19?style=for-the-badge&logo=postman&logoColor=black&logoSize=auto&labelColor=white" width="150" alt="Postman Badge">
+<img src="https://img.shields.io/badge/vscode-white?style=for-the-badge&logo=visualstudiocode&logoColor=%234586ff&logoSize=auto&labelColor=white" width="130" alt="VSCode Badge">
+
+</div>
         
     
 </p>
@@ -49,16 +58,10 @@
 </div>
 
 <p align="center">
-    <div align="center" class="icons-social">
-        <a href="https://www.linkedin.com/in/pablomperezaguilar/" target="_blank">
-            <img width="100" height="100" src="https://img.icons8.com/pulsar-gradient/100/linkedin.png" alt="linkedin"/>
-        </a>
-        <a href="https://github.com/PabloPerezAguilar5?tab=repositories" target="_blank">
-            <img width="100" height="100" src="https://img.icons8.com/pulsar-gradient/100/github.png" alt="github"/>
-        </a>
-        <a href="mailto:pabloperezaguilaro@gmail.com" target="_blank">
-            <img width="100" height="100" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/gmail.png" alt="gmail"/>
-        </a>
+    <div align="center" class="icons-social" style="margin-top: 400px;">
+       <a href="https://www.linkedin.com/in/pablomperezaguilar/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin&logoColor=blue&logoSize=auto&labelColor=white" width="150" alt="LinkedIn Badge"></a>
+       <a href="https://github.com/PabloPerezAguilar5?tab=repositories"><img src="https://img.shields.io/badge/Projects-s?style=social&logo=github&logoColor=black&logoSize=auto&labelColor=white" width="150" alt="GitHub Projects Badge"></a>
+       <a href="mailto:tudirecciondecorreo@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=social&logo=gmail&logoColor=%23db0000&logoSize=auto&labelColor=white" width="150" alt="Gmail Badge"></a>
     </div>
 </p>
 
