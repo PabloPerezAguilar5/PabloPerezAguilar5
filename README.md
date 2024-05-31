@@ -30,14 +30,14 @@
 <img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=green&logoSize=auto&labelColor=white" width="135" alt="Django Badge">
 <img src="https://img.shields.io/badge/java-%23a6000b?style=for-the-badge&logo=coffeescript&logoColor=%23a6000b&logoSize=auto&labelColor=white" width="120" alt="Java Badge">
 <img src="https://img.shields.io/badge/spring%20boot-green?style=for-the-badge&logo=springboot&logoColor=%2303a110&logoSize=auto&labelColor=white" width="185" alt="Spring Boot Badge">
-<img src="https://img.shields.io/badge/sql-%23ff9e03?style=for-the-badge&logo=mysql&logoColor=%230f82f5&logoSize=auto&labelColor=white" width="110" alt="SQL Badge">
+<img src="https://img.shields.io/badge/SQLServer-%238f0303?style=for-the-badge&logo=microsoftsqlserver&logoColor=black&labelColor=white" width="160" alt="SQL Server Badge">
+<img src="https://img.shields.io/badge/mysql-%231c0675?style=for-the-badge&logo=mysql&logoColor=%230f82f5&labelColor=white" width="120" alt="MySQL Badge">
+<img src="https://img.shields.io/badge/-%23ff5e19?style=for-the-badge&logo=alteryx&logoColor=black&logoSize=auto&labelColor=white" width="110" alt="Alteryx Badge">
 <img src="https://img.shields.io/badge/html5-%23a60707?style=for-the-badge&logo=html5&logoColor=%23750202&logoSize=auto&labelColor=white" width="120" alt="HTML5 Badge">
 <img src="https://img.shields.io/badge/css3-%23175ee3?style=for-the-badge&logo=css3&logoColor=%23175ee3&logoSize=auto&labelColor=white" width="110" alt="CSS3 Badge">
 <img src="https://img.shields.io/badge/docker-%23014670?style=for-the-badge&logo=docker&logoColor=black&logoSize=auto&labelColor=white" width="150" alt="Docker Badge">
-<img src="https://img.shields.io/badge/react--white?style=for-the-badge&logo=react&logoColor=blue&logoSize=auto&labelColor=white" width="130" alt="React Badge">
-<img src="https://img.shields.io/badge/vite--white?style=for-the-badge&logo=vite&logoColor=violet&logoSize=auto&labelColor=white" width="115" alt="Vite Badge">
 <img src="https://img.shields.io/badge/postman-%23ff5e19?style=for-the-badge&logo=postman&logoColor=black&logoSize=auto&labelColor=white" width="150" alt="Postman Badge">
-<img src="https://img.shields.io/badge/vscode-white?style=for-the-badge&logo=visualstudiocode&logoColor=%234586ff&logoSize=auto&labelColor=white" width="130" alt="VSCode Badge">
+<img src="https://img.shields.io/badge/Power%20BI-%23e7ed37?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=white" width="150" alt="Power BI Badge">
 
 </div>
         
