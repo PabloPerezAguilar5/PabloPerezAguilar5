@@ -8,17 +8,22 @@
 <body>
 <i class="devicon-djangorest-plain-wordmark"></i>
 
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Pablo</h1>
 <h3 align="center">Developer based in Sao Paulo, Brazil</h3>
 
 <br>
 
-<p align="center">🧑‍🎓 Studying a degree in software engineering.</p>
+<p align="center">🧑‍🎓 Studying a degree in analysis and development systems.</p>
 <p align="center">👍 I'm available to work.</p>
 <p align="center">🤝 I’m available for freelancing.</p>
 <p align="center">🧑‍💻 Currently learning Java.</p>
 
+<br>
+
+<h3 align="center">See my website here:</h3>
+<p align="center">
+    <a href="https://pablomperez.com/" target="_blank">pabloperez</a>
+</p>
 
 <br>
 
@@ -41,13 +46,7 @@
 
 </div>
         
-    
-</p>
-
 <br>
-
-
-
 
 <div align="center">
     <h3>
@@ -64,7 +63,6 @@
        <a href="mailto:tudirecciondecorreo@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=social&logo=gmail&logoColor=%23db0000&logoSize=auto&labelColor=white" width="150" alt="Gmail Badge"></a>
     </div>
 </p>
-
 
 </body>
 </html>
