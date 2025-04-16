@@ -13,10 +13,10 @@
 
 <br>
 
-<p align="center">🧑‍🎓 Studying a degree in analysis and development systems.</p>
+<p align="center">🧑‍🎓 Studying a degree in Software Development.</p>
 <p align="center">👍 I'm available to work.</p>
 <p align="center">🤝 I’m available for freelancing.</p>
-<p align="center">🧑‍💻 Currently learning Java.</p>
+<p align="center">🧑‍💻 Currently learning Unity.</p>
 
 <br>
 
