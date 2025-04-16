@@ -9,7 +9,7 @@
 <i class="devicon-djangorest-plain-wordmark"></i>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Pablo</h1>
-<h3 align="center">Developer based in Sao Paulo, Brazil</h3>
+<h3 align="center">Mostly a BackEnd Developer based in Sao Paulo, Brazil</h3>
 
 <br>
 
@@ -24,7 +24,7 @@
 <p align="center">
     <a href="https://pablomperez.com/" target="_blank">pabloperez</a>
     <br>
-    <a href="https://data.pablomperez.com/" target="_blank">data-pabloperez</a>
+    
 
 </p>
 
