@@ -1,4 +1,4 @@
-<h1 align="center">Pablo Martín Pérez</h1>
+<h1 align="center">Pablo Martín Perez</h1>
 <h3 align="center">Building AI-powered SaaS for service businesses in LATAM</h3>
 
 <br>
