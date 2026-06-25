@@ -10,7 +10,7 @@
   🤖 Obsessed with AI automation, multi-tenant architecture and things that actually work
 </p>
 <p align="center">
-  ⚡ Solo founder · Full-stack · Ex Meta Level 3 Support
+  ⚡ Solo founder · Full-stack · IA expert
 </p>
 
 <br>
