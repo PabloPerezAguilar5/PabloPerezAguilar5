@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin&logoColor=blue&labelColor=white" width="150" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="https://wa.me/5511969166495">
+  <a href="https://wa.me/5511978318710">
     <img src="https://img.shields.io/badge/WhatsApp-white?style=social&logo=whatsapp&logoColor=green&labelColor=white" width="150" alt="WhatsApp">
   </a>
   &nbsp;
