@@ -1,73 +1,68 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-</head>
-<body>
-<i class="devicon-djangorest-plain-wordmark"></i>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Pablo</h1>
-<h3 align="center">Developer based in Sao Paulo, Brazil</h3>
+<h1 align="center">Pablo Martín Pérez</h1>
+<h3 align="center">Building AI-powered SaaS for service businesses in LATAM</h3>
 
 <br>
 
-<p align="center">🧑‍🎓 Studying a degree in Software Development.</p>
-<p align="center">👍 I'm available to work.</p>
-<p align="center">🤝 I’m available for freelancing.</p>
-<p align="center">🧑‍💻 Currently learning Unity.</p>
-
-<br>
-
-<h3 align="center">See my website here:</h3>
 <p align="center">
-    <a href="https://pablomperez.com/" target="_blank">pabloperez</a>
-    <br>
-    
-
+  🚀 Building <a href="https://hellowendly.symeia.com"><strong>Wendly</strong></a> — AI WhatsApp chatbot + CRM for service businesses in Argentina & Brazil
+</p>
+<p align="center">
+  🤖 Obsessed with AI automation, multi-tenant architecture and things that actually work
+</p>
+<p align="center">
+  ⚡ Solo founder · Full-stack · Ex Meta Level 3 Support
 </p>
 
 <br>
 
-<h3 align="center">Tools I have experience with:</h3>
-
-<div style="display: inline_block"><br>
-      
-<img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoSize=auto&labelColor=white&color=yellow" width="140" alt="Static Badge">
-<img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=green&logoSize=auto&labelColor=white" width="135" alt="Django Badge">
-<img src="https://img.shields.io/badge/java-%23a6000b?style=for-the-badge&logo=coffeescript&logoColor=%23a6000b&logoSize=auto&labelColor=white" width="120" alt="Java Badge">
-<img src="https://img.shields.io/badge/spring%20boot-green?style=for-the-badge&logo=springboot&logoColor=%2303a110&logoSize=auto&labelColor=white" width="185" alt="Spring Boot Badge">
-<img src="https://img.shields.io/badge/SQLServer-%238f0303?style=for-the-badge&logo=microsoftsqlserver&logoColor=black&labelColor=white" width="160" alt="SQL Server Badge">
-<img src="https://img.shields.io/badge/mysql-%231c0675?style=for-the-badge&logo=mysql&logoColor=%230f82f5&labelColor=white" width="120" alt="MySQL Badge">
-<img src="https://img.shields.io/badge/-%23ff5e19?style=for-the-badge&logo=alteryx&logoColor=black&logoSize=auto&labelColor=white" width="110" alt="Alteryx Badge">
-<img src="https://img.shields.io/badge/html5-%23a60707?style=for-the-badge&logo=html5&logoColor=%23750202&logoSize=auto&labelColor=white" width="120" alt="HTML5 Badge">
-<img src="https://img.shields.io/badge/css3-%23175ee3?style=for-the-badge&logo=css3&logoColor=%23175ee3&logoSize=auto&labelColor=white" width="110" alt="CSS3 Badge">
-<img src="https://img.shields.io/badge/docker-%23014670?style=for-the-badge&logo=docker&logoColor=black&logoSize=auto&labelColor=white" width="150" alt="Docker Badge">
-<img src="https://img.shields.io/badge/postman-%23ff5e19?style=for-the-badge&logo=postman&logoColor=black&logoSize=auto&labelColor=white" width="150" alt="Postman Badge">
-<img src="https://img.shields.io/badge/Power%20BI-%23e7ed37?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=white" width="150" alt="Power BI Badge">
-
-</div>
-        
-<br>
+<h3 align="center">🛠️ What I build with</h3>
 
 <div align="center">
-    <h3>
-        <a href="https://git.io/typing-svg" target="_blank">
-            <img src="https://readme-typing-svg.demolab.com?font=Roboto-Mono&pause=1000&color=22C0F7&center=true&vCenter=true&random=false&width=435&lines=Connect+with+me" alt="Typing SVG"/>
-        </a>
-    </h3>
+  <img src="https://img.shields.io/badge/React_19-white?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=white" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=%233178C6&labelColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/n8n-white?style=for-the-badge&logo=n8n&logoColor=%23EA4B71&labelColor=white" alt="n8n">
+
+  <img src="https://img.shields.io/badge/Supabase-white?style=for-the-badge&logo=supabase&logoColor=%2300C896&labelColor=white" alt="Supabase">
+    <img src="https://img.shields.io/badge/WhatsApp_API-white?style=for-the-badge&logo=whatsapp&logoColor=%2325D366&labelColor=white" alt="WhatsApp API">
+<img src="https://img.shields.io/badge/Redis-white?style=for-the-badge&logo=redis&logoColor=%23FF4438&labelColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/OpenAI-white?style=for-the-badge&logo=openai&logoColor=black&labelColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=%234169E1&labelColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/Claude-white?style=for-the-badge&logo=anthropic&logoColor=black&labelColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=%23339933&labelColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=%232496ED&labelColor=white" alt="Docker">
 </div>
 
+<br>
+
+<h3 align="center">📌 What I'm working on</h3>
+
 <p align="center">
-    <div align="center" class="icons-social" style="margin-top: 400px;">
-       <a href="https://www.linkedin.com/in/pablomperezaguilar/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin&logoColor=blue&logoSize=auto&labelColor=white" width="150" alt="LinkedIn Badge"></a>
-       <a href="https://github.com/PabloPerezAguilar5?tab=repositories"><img src="https://img.shields.io/badge/Projects-s?style=social&logo=github&logoColor=black&logoSize=auto&labelColor=white" width="150" alt="GitHub Projects Badge"></a>
-       <a href="mailto:tudirecciondecorreo@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=social&logo=gmail&logoColor=%23db0000&logoSize=auto&labelColor=white" width="150" alt="Gmail Badge"></a>
-    </div>
+  <a href="https://hellowendly.symeia.com">
+    <img src="https://img.shields.io/badge/Wendly-launching_now-6C63FF?style=for-the-badge&logoColor=white" alt="Wendly">
+  </a>
+  &nbsp;
+  <a href="https://symeia.com">
+    <img src="https://img.shields.io/badge/Symeia-symeia.com-00D4AA?style=for-the-badge&logoColor=white" alt="Symeia">
+  </a>
 </p>
 
-</body>
-</html>
+<br>
+
+<h3 align="center">🤝 Let's connect</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pablomperezaguilar/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin&logoColor=blue&labelColor=white" width="150" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://wa.me/5511969166495">
+    <img src="https://img.shields.io/badge/WhatsApp-white?style=social&logo=whatsapp&logoColor=green&labelColor=white" width="150" alt="WhatsApp">
+  </a>
+  &nbsp;
+  <a href="https://github.com/PabloPerezAguilar5?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-black?style=social&logo=github&logoColor=black&labelColor=white" width="150" alt="GitHub">
+  </a>
+</div>
 
 
